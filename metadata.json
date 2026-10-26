@@ -1,0 +1,6 @@
+{
+  "name": "Body Tone Boxing",
+  "description": "Professional boxing and interval timer from Body Tone Gym featuring custom color schemes for rounds and rest intervals, sound alerts, and workout presets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
